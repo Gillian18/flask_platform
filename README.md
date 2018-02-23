@@ -32,6 +32,6 @@ $ pip install git+https://github.com/Gillian18/Systeminfo.git
 
 Navigate to the project directory (e.g. `/path/to/flask_platform`), then run
 
-```py
+```sh
 $ python run.py
 ```
